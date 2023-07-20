@@ -1,6 +1,12 @@
 # Getting Started with Contributing on GitHub - A Beginner's Guide
 Welcome to the world of open-source collaboration! This step-by-step guide will show you how to contribute to documentation hosted on GitHub, using only the Github web interface. No installation or coding experience required! You'll learn to navigate repositories, edit files, and create pull requests effortlessly. Let's get started!
 
+**Quick terminology**
+- Repository - or a "repo", is a folder that contains of all the files, sub-folders, and content related to a project.
+- Fork - a copy of a repository
+- Branch - a version of the project that contains changes not yet merged to the 'main' project (ie. 'branching off'.)
+- Pull request - if someone has created a branch, ie. made some change to your document, they can submit a request to the document maintainer to merge it ('pull this changes')
+
 1. **Create an account:** First step is to create an account at [GitHub](https://github.com/join). Choose a username you feel comfortable displaying for contributions you'll be authoring.
 
 2. **Fork the Repository:** Navigate to the URL of the repository containing the documentation you want to contribute to. Click the "Fork" button in the top-right corner of the repository page. Note: This creates a personal copy under your account, any changes you make to this fork will not be reflected to the original site. The following steps will show you how to submit your changes to the original document.
@@ -18,3 +24,11 @@ Welcome to the world of open-source collaboration! This step-by-step guide will 
 8. **Collaborate and Iterate:** The repository maintainers will review your changes, provide feedback, and suggest improvements if needed. You can continue to make additional commits to your branch based on the feedback until the maintainers decide to merge your changes into the main documentation.
 
 That's it! By following these steps, you can contribute to the documentation hosted on GitHub using only the web interface. Remember to be patient and responsive to feedback during the review process, as it's a collaborative effort to improve the documentation.
+
+## Coming Soon
+- [X] Quick terminology
+- [ ] Screenshots for each step
+- [ ] Tips for writing in Markdown, [Cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- [ ] Next Steps, using Github Desktop
+
+
