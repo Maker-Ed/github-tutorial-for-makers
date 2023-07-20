@@ -3,9 +3,9 @@ Welcome to the world of open-source collaboration! This step-by-step guide will 
 
 1. **Create an account:** First step is to create an account at [GitHub](https://github.com/join). Choose a username you feel comfortable displaying for contributions you'll be authoring.
 
-2. **Fork the Repository:** Navigate to the URL of the repository containing the documentation you want to contribute to. Click the "Fork" button in the top-right corner of the repository page. This will create a copy of the repository in your GitHub account.
+2. **Fork the Repository:** Navigate to the URL of the repository containing the documentation you want to contribute to. Click the "Fork" button in the top-right corner of the repository page. Note: This creates a personal copy under your account, any changes you make to this fork will not be reflected to the original site. The following steps will show you how to submit your changes to the original document.
 
-3. **Edit the Documentation:** Go back to the URL of the main documentation repo (not your fork/copy), navigate to the folder containing the documentation file you want to update. Click on the file you want to edit. On the top-right corner of the file, you'll find a pencil icon for editing. Click it to enter the editor.
+3. **Edit the Documentation:** Go back to the URL of the main documentation repo (not your fork/copy), and navigate to the folder containing the documentation file you want to update. Click on the file you want to edit. On the top-right corner of the file, you'll find a pencil icon for editing. Click it to enter the editor.
    
 4. **Make Changes:** Use the built-in editor to make your desired changes to the documentation. You can add, delete, or modify text as needed. When you finish making changes, scroll down to the "Commit changes" section.
 
